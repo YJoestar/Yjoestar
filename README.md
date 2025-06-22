@@ -9,7 +9,7 @@
 -----
 
 <p align="center"\>
-<img src="[[https://media.giphy.com/media/LmN8Ctrg3Tf6bXo0rK/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/LmN8Ctrg3Tf6bXo0rK/giphy.gif)](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" width="300" alt="Coding GIF"\>
+<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" alt="Coding GIF"\>
 </p\>
 
 I'm a passionate and driven student who recently completed my **Bac Info (2025)** and is now diving into my **Prepa Integré** program. My ultimate goal? To become an **AI Engineer**, harnessing my foundational programming skills and an insatiable curiosity for cutting-edge technology to innovate and solve complex problems.
