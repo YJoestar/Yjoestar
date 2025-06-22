@@ -8,9 +8,9 @@
 
 -----
 
-\<p align="center"\>
-\<img src="[https://media.giphy.com/media/LmN8Ctrg3Tf6bXo0rK/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/LmN8Ctrg3Tf6bXo0rK/giphy.gif)" width="300" alt="Coding GIF"\>
-\</p\>
+<p align="center"\>
+<img src="[https://media.giphy.com/media/LmN8Ctrg3Tf6bXo0rK/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/LmN8Ctrg3Tf6bXo0rK/giphy.gif)" width="300" alt="Coding GIF"\>
+</p\>
 
 I'm a passionate and driven student who recently completed my **Bac Info (2025)** and is now diving into my **Prepa Integré** program. My ultimate goal? To become an **AI Engineer**, harnessing my foundational programming skills and an insatiable curiosity for cutting-edge technology to innovate and solve complex problems.
 
