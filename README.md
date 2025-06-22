@@ -1,77 +1,72 @@
+-----
 
+# Hey there! I'm Youssef Ben Othman 👋  
+### Future AI Engineer | Innovator | Lifelong Learner | Bac Info 2025 Graduate
 
 -----
 
-# Hey there\! I'm Youssef Ben Othman 👋
+<p align="center">
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" alt="Coding GIF">
+</p>
 
-### Future AI Engineer | Driving Innovation & Solving Problems with Code | Bac Info 2025 Graduate
+I'm a passionate and driven student who recently completed my **Bac Info (2025)** with a general average of **17.32**, and I’m now diving into a **Prépa Intégrée** studies to build a strong foundation in computer science and mathematics.  
 
------
+My ultimate goal? To become an **AI Engineer**—solving real-world problems through technology, machine learning, and creative thinking.  
 
-<p align="center"\>
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" alt="Coding GIF"\>
-</p\>
-
-I'm a passionate and driven student who recently completed my **Bac Info (2025)** and is now diving into my **Prepa Integré** program. My ultimate goal? To become an **AI Engineer**, harnessing my foundational programming skills and an insatiable curiosity for cutting-edge technology to innovate and solve complex problems.
-
-I truly believe in **innovation, creativity, and continuous learning**. I'm always eager to explore new ideas and bring them to life, whether it's through code or design. While **graphic design** is a fun creative outlet, my core focus is firmly on the transformative power of artificial intelligence.
+I believe in **continuous learning, innovation, and meaningful impact**. Whether it’s through code, robotics, or design, I love bringing ideas to life and pushing boundaries.
 
 -----
 
-## 🚀 What I'm Up To
+## 🚀 What I’m Working On
 
-  * **Building a Strong Foundation:** Currently immersing myself in computer science and mathematics through my Prepa Integré program.
-  * **Mastering Python:** Deepening my expertise in Python, specifically for AI and machine learning applications.
-  * **Seeking Growth:** Always on the lookout for new learning opportunities and ways to expand my knowledge in the dynamic IT sector.
-  * **Staying Ahead:** Constantly following the latest advancements in **AI, robotics, and emerging technologies**.
-
------
-
-## 💻 My Toolkit
-
-Here are some of the technologies and tools I'm proficient in or actively learning:
-
-| Category          | Tools & Technologies                                                     |
-| :---------------- | :----------------------------------------------------------------------- |
-| **Programming** | Python, HTML, CSS, JavaScript (GSAP), PHP, SQL, C++ (Basic)              |
-| **Design & Media** | Figma, Adobe Premiere Pro, Adobe Photoshop, Adobe Illustrator            |
-| **Productivity** | Microsoft Office Suite, LaTeX                                            |
-| **Concepts & Areas** | 3D Modeling & Printing, Robotics, Web Development, UI/UX Design, Problem Solving |
+- 📚 **Laying the Groundwork:** Studying computer science, mathematics, and algorithms through my Prépa Intégrée.
+- 🐍 **Deepening Python Mastery:** Focused on Python for machine learning, data science, and AI applications.
+- 🌐 **Exploring Emerging Tech:** Following advancements in **AI, robotics, and automation**.
+- 💡 **Seeking Growth:** Always open to new learning opportunities, challenges, and collaborations.
 
 -----
 
-## ✨ My Achievements & Recognitions
+## 🛠️ My Tech Stack
 
-I'm incredibly proud of these early milestones in my journey:
-
-  * 🥇 **1st Place** - Regional Python Competition (2023)
-  * 🥇 **1st Place** - Regional Robotics Competition (2023)
-  * **Certificat en Python** - FABLAB al-khawarzmi Douz (2024)
-  * **Certificat en 3D Modeling et Impression 3D** - FABLAB al-khawarzmi Douz (2023)
-  * **Certificat en Robotique** - FABLAB al-khawarzmi Douz (2023)
-  * **Bac Info 2025 Graduate** - Moyenne Générale: **17.32**
+| Category              | Tools & Technologies                                                     |
+| :------------------- | :------------------------------------------------------------------------ |
+| **Programming**      | Python, JavaScript (GSAP), HTML, CSS, PHP, SQL, C++ (basic)              |
+| **Design & Media**   | Figma, Adobe Premiere Pro, Photoshop, Illustrator                         |
+| **Productivity**     | Microsoft Office, LaTeX                                                   |
+| **Domains of Interest** | AI & Machine Learning, 3D Printing, Robotics, Web Development, UI/UX     |
 
 -----
 
-## 🌱 Learning & Growing
+## 🏆 Highlights & Achievements
 
-I'm excited to delve deeper into these areas and expand my expertise:
-
-  * Machine Learning algorithms
-  * Data Science fundamentals
-  * Advanced AI frameworks (e.g., TensorFlow, PyTorch)
-
------
-
-## 📫 Let's Connect\!
-
-I'm always open to connecting with fellow enthusiasts, mentors, and professionals in the tech space. Feel free to reach out\!
-
-  * **LinkedIn:** [[Your LinkedIn Profile URL Here]](https://www.linkedin.com/in/youssef-ben-othman-9068b824a/)
-  * **Email:** benothmanyoussef6@gmail.com
+- 🥇 **1st Place** – Regional Python Competition (2023)  
+- 🥇 **1st Place** – Regional Robotics Competition (2023)  
+- 📜 **Certificate in Python** – FABLAB Al-Khawarizmi Douz (2024)  
+- 🖨️ **Certificate in 3D Modeling & Printing** – FABLAB Al-Khawarizmi Douz (2023)  
+- 🤖 **Certificate in Robotics** – FABLAB Al-Khawarizmi Douz (2023)  
+- 🎓 **Bac Info Graduate – 2025** | General Average: **17.32** | **Mention très bien**
 
 -----
 
-> "Innovation distinguishes between a leader and a follower." – Steve Jobs
+## 🌱 Currently Learning
+
+I'm currently diving into:
+
+- 🤖 **Machine Learning algorithms**
+- 📊 **Data Science fundamentals**
+- 🧠 **AI Frameworks**
+
+-----
+
+## 📫 Let’s Connect!
+
+Always happy to connect with fellow learners, developers, mentors, and professionals in the tech space.
+
+- 💼 **LinkedIn:** [Youssef Ben Othman](https://www.linkedin.com/in/youssef-ben-othman-9068b824a/)
+- 📧 **Email:** benothmanyoussef6@gmail.com
+
+-----
+
+> *"Innovation distinguishes between a leader and a follower."* — **Steve Jobs**
 
 -----
