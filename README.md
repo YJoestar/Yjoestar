@@ -4,7 +4,7 @@
 
 # Hey there\! I'm Youssef Ben Othman 👋
 
-### Aspiring AI Engineer | Prepa Integré Student | Python & Web Development Enthusiast
+### Future AI Engineer | Driving Innovation & Solving Problems with Code | Bac Info 2025 Graduate
 
 -----
 
