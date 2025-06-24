@@ -44,7 +44,7 @@ I believe in **continuous learning, innovation, and meaningful impact**. Whether
 - 📜 **Certificate in Python** – FABLAB Al-Khawarizmi Douz (2024)  
 - 🖨️ **Certificate in 3D Modeling & Printing** – FABLAB Al-Khawarizmi Douz (2023)  
 - 🤖 **Certificate in Robotics** – FABLAB Al-Khawarizmi Douz (2023)  
-- 🎓 **Bac Info Graduate – 2025** | General Average: **17.32** | **Mention très bien**
+- 🎓 **Bac Info Graduate – 2025** | General Average: **17.32** | **Mention très bien** | **1ere place** regionale au section de sc.info
 
 -----
 
